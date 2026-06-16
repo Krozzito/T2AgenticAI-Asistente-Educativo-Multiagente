@@ -4,7 +4,7 @@ Sistema multiagente local que procesa consultas académicas en lenguaje natural,
 delega a un agente especialista y entrega una respuesta integrada validada por un agente
 crítico. Todo corre de forma local mediante **Ollama**, sin APIs de pago.
 
-> Entrega 2 — Cristóbal Figueroa Burgos · Universidad De Concepción · 2026
+> Entrega 2 — Agentic AI · Universidad De Concepción · 2026
 
 ---
 
